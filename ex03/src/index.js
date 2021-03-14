@@ -7,4 +7,4 @@ function main() {
 }
 
 console.log(main());
-module.export = main;
+module.exports = main;
